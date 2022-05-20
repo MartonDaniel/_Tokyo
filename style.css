@@ -22,3 +22,10 @@ main h2{
 #kajak4 li{
     line-height: 3rem;
 }
+
+h2{
+    border:  #416618;
+border-width: 3px;
+border-style: dotted;
+font-variant: small-caps;
+}
