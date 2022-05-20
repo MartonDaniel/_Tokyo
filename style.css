@@ -21,7 +21,7 @@ main h2{
 
 #kajak4 li{
     line-height: 3rem;
-list-style-image: url(arany.png);
+list-style-image: url("images/arany.png");
 float: inline-start;
 margin-right: 40px;
 }
